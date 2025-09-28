@@ -28,8 +28,8 @@ This is a simple RESTful API built with [Flask](https://flask.palletsprojects.co
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flask-user-api.git
-cd flask-user-api
+git clone https://github.com/your-username/a-REST-API-with-Flask.git
+cd a-REST-API-with-Flask
 
 Example Usage (with curl)
 # Create a user
